@@ -1,0 +1,53 @@
+{
+  "heroes": [
+    {
+      "id": "c7a56ca6-f22b-44a7-99a3-947343ddf7dc",
+      "name": "Emily",
+      "description": "I am a fiery girl",
+      "element": "fire"
+    },
+    {
+      "id": "7f651327-ac5e-4558-8e0a-ac8ecde54279",
+      "name": "Lolla ",
+      "description": "Free like a wind",
+      "element": "wind"
+    },
+    {
+      "id": "857790a7-4b46-4f33-9370-57978b591512",
+      "name": "Brad",
+      "description": "Earth energy is inside",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Fire",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Water",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Wind",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Earth",
+      "className": "btn-secondary"
+    }
+  ]
+}
